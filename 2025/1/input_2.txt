@@ -1,0 +1,3 @@
+Valorath,Arvsor,Brelthar,Draksaral,Malardith,Lazulrix,Elvarmir,Orahlyr,Xendoris,Paldiral,Ryssdrith,Pylarcion,Lazirzal,Aernar,Quarnfarin,Falxel,Aelfroth,Fyrkael,Brelkyr,Wyndaros
+
+L9,R7,L12,R14,L10,R8,L9,R17,L13,R19,L5,R15,L5,R15,L5,R10,L5,R10,L5,R9,L8,R6,L13,R13,L13,R7,L10,R8,L5
