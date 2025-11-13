@@ -1,0 +1,26 @@
+Elarvyr,Brelalar,Nexzeth,Elaraxis,Elarxel,Malaxis,Voraxvyr,Elarvynar,Brelidris,Krynnardith,Voraxzeth,Orahxel,Voraxidris,Lorox,Orahidris,Nexxel,Lorhynd,Ignvyr,Nexvyr,Krynnidris,Elaridris,Nexalar,Elaralar,Krynnxel,Ignaxis,Nexidris,Valox,Voraxaxis,Orahaxis,Elarhynd,Valvynar,Voraxox,Elarzeth,Krynnzeth,Elarardith,Krynnvyr,Ignox,Malvynar,Ignxel,Voraxalar,Valxel,Ignidris,Nexvynar,Malxel,Ignalar,Valhynd,Orahox,Voraxardith,Valvyr,Ignvynar,Orahvyr,Valardith,Elarox,Voraxvynar,Krynnhynd,Krynnalar,Lorardith,Valaxis,Brelhynd,Nexhynd,Brelxel,Orahzeth,Ignardith,Malzeth,Ignzeth,Brelardith,Voraxhynd,Krynnaxis,Loridris,Loraxis,Ignhynd,Krynnox,Brelaxis,Orahhynd,Malhynd,Validris,Krynnvynar,Lorzeth,Malalar,Brelzeth,Valzeth,Voraxxel,Nexardith,Malox,Nexaxis,Orahardith,Nexox,Valalar,Malardith,Orahalar,Lorvyr,Lorxel,Lorvynar,Malvyr,Malidris,Brelvyr,Brelox,Brelvynar,Loralar,Orahvynar
+
+z > e
+v > y
+O > r
+B > r
+o > r,x,v
+M > a
+g > v
+l > o,v,x,a,i,h,z
+K > r
+E > l
+h > y,o,v,x,a,i,h,z
+i > d,s,t
+e > l,t,v
+I > g
+t > h
+d > r,i
+V > o,a
+a > x,v,r,l,h
+N > e
+L > o
+n > a,d,o,v,x,i,h,z,n
+x > v,e,i,o,x,a,h,z
+y > r,n
+r > a,i,d,v,o,x,h,z

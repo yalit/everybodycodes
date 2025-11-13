@@ -1,0 +1,31 @@
+Ny,Nyl,Nyth,Nyss,Nyrix,Zor,Cael,Kal,Gal,Fer,Wyn,Anor,Shael,Malith,Orah,Gorath,Brel,Zyrix,Ild,Rah
+
+h > x,a,o,v,m,n,e
+R > a
+F > e
+G > a,o
+M > a
+v > a,e
+t > h
+o > r,n,v
+B > r
+i > l,r,x,t
+I > l
+O > r
+l > o,i,a,x,v,m,n,e
+K > a
+C > a
+r > i,a,x,o,v,m,n,e
+y > v,n,r
+n > a,y,x,o,v,m,n,e
+s > s,a,x,o,v,m,n,e
+x > a,x,o,v,m,n,e
+e > l,r,t,v
+N > y
+d > a,x,o,v,m,n,e
+W > y
+Z > o,y
+a > h,r,e,l,t,x,v
+S > h
+m > i,y
+A > n
