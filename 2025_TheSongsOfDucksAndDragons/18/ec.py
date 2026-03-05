@@ -28,7 +28,6 @@ def solution_3(lines: list[str]):
     
     max_energy = get_energy(root, plants, max_case)
 
-    print("Max energy = ", max_energy)
     total = 0
     for case in cases:
         energy = get_energy(root, plants, case)
